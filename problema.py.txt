@@ -1,4 +1,4 @@
-#crea una calculadora virtual; el usuario debera ingresar 2 numeros y la operacion que desea reaklizar
+#crea una calculadora virtual; el usuario debera ingresar 2 numeros y la operacion que desea realizar
 # (suma,resta.multiplicacion,y division)
 #ej: calculadora(2,+,3) devuelve= 5
 #    calculadora (2,*,3) devuelve= 6
